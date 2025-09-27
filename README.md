@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Gabriel Urias  
 
 🎓 Estudante de Ciência de Dados e Inteligência Artificial
+
 🤖 Interessado em IA e Sustentabilidade
 
 ---
