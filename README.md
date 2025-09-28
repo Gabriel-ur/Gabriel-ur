@@ -40,6 +40,31 @@ src="powerbi.jpeg"/>
 <img align="left" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 
+<!-- Seaborn (Wikimedia) -->
+<img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;"
+src="https://upload.wikimedia.org/wikipedia/commons/8/84/Seaborn_logo.png"/>
+
+<!-- Seaborn (BrandPNG - ícone) -->
+<img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;"
+src="https://logo.svgcdn.com/l/seaborn-icon.png"/>
+
+<!-- Seaborn (BrandPNG - logo transparente) -->
+<img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;"
+src="https://logo.svgcdn.com/l/seaborn.png"/>
+
+<!-- Seaborn (SeekLogo) -->
+<img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;"
+src="https://seeklogo.com/images/S/seaborn-logo-441844B29A-seeklogo.com.png"/>
+
+<!-- Seaborn (WorldVectorLogo - SVG) -->
+<img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;"
+src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg"/>
+
+<!-- Seaborn (SVGMix - SVG) -->
+<img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;"
+src="https://svgmix.com/uploads/441844/seaborn.svg"/>
+
+
 <br clear="left"/>
 
 ---
