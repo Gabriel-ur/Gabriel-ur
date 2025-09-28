@@ -1,8 +1,8 @@
 # 👋 Gabriel Urias  
 
-**🎓 Estudante de Ciência de Dados e Inteligência Artificial**
+🎓 Estudante de Ciência de Dados e Inteligência Artificial
 
-**🤖 Interessado em IA e Sustentabilidade**
+🤖 Interessado em IA e Sustentabilidade
 
 ---
 
@@ -44,7 +44,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
 
 ---
 
-## 📂 Projetos de Destaque  
+## 📂 Projetos  
 
 | Projeto | Descrição |
 |---------|-----------|
