@@ -24,17 +24,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-origi
 <img align="left" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
-<!-- Matplotlib (não existe ícone oficial, usando logo adaptado do repositório) -->
+<!-- Matplotlib -->
 <img align="left" alt="Matplotlib" title="Matplotlib" width="40px" style="padding-right: 10px;" 
 src="matplotlib.png"/>
 
-<!-- Seaborn (sem ícone oficial, usando imagem da comunidade) -->
-<img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;" 
+<!-- Seaborn -->
+<img align="left" alt="Seaborn" title="Seaborn" width="60px" style="padding-right: 10px;" 
 src="seaborn.png"/>
-
-<!-- Power BI -->
-<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" 
-src="powerbi.jpeg"/>
 
 <!-- Figma -->
 <img align="left" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" 
