@@ -26,11 +26,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 
 <!-- Matplotlib (usando imagem do repositório local) -->
 <img align="left" alt="Matplotlib" title="Matplotlib" width="40px" style="padding-right: 10px;" 
-src="matplotlib.png"/>
+src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
 
 <!-- Seaborn (usando imagem do repositório local) -->
 <img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;" 
-src="seaborn.png"/>
+src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
 
 <!-- Power BI -->
 <img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" 
