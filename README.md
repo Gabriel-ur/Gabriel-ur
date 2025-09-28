@@ -26,15 +26,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 
 <!-- Matplotlib (usando imagem do repositório local) -->
 <img align="left" alt="Matplotlib" title="Matplotlib" width="40px" style="padding-right: 10px;" 
-src="./assets/matplotlib.png"/>
+src="matplotlib.png"/>
 
 <!-- Seaborn (usando imagem do repositório local) -->
 <img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;" 
-src="./assets/seaborn.png"/>
+src="seaborn.png"/>
 
 <!-- Power BI -->
 <img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"/>
+src="powerbi.jpeg"/>
 
 <!-- Figma -->
 <img align="left" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" 
