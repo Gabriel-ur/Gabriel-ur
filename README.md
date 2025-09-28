@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gabriel Urias  
+# 👋 Gabriel Urias  
 
 🎓 Estudante de Ciência de Dados e Inteligência Artificial
 
