@@ -30,7 +30,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
 
 <!-- Seaborn (usando imagem do repositório local) -->
 <img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;"
-src="https://logo.svgcdn.com/l/seaborn.png"/>
+src="[https://logo.svgcdn.com/l/seaborn.png](https://commons.wikimedia.org/wiki/File:Logo-seaborn.png)"/>
 
 <!-- Power BI -->
 <img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" 
