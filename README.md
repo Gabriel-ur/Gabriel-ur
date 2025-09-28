@@ -25,7 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-origi
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
 <!-- Matplotlib -->
-<img align="left" alt="Matplotlib" title="Matplotlib" width="40px" style="padding-right: 10px;" 
+<img align="left" alt="Matplotlib" title="Matplotlib" width="80px" style="padding-right: 10px;" 
 src="matplotlib.png"/>
 
 <!-- Seaborn -->
