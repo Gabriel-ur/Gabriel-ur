@@ -26,15 +26,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 
 <!-- Matplotlib (não existe ícone oficial, usando logo adaptado do repositório) -->
 <img align="left" alt="Matplotlib" title="Matplotlib" width="40px" style="padding-right: 10px;" 
-src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg"/>
+src="matplotlib.png"/>
 
 <!-- Seaborn (sem ícone oficial, usando imagem da comunidade) -->
 <img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;" 
-src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
+src="seaborn.png"/>
 
 <!-- Power BI -->
 <img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"/>
+src="powerbi.jpeg"/>
 
 <!-- Figma -->
 <img align="left" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" 
