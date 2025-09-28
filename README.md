@@ -8,27 +8,33 @@
 
 ## 🛠️ Competências Técnicas  
 
-<img alt="Python" title="Python" width="40px" style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<!-- Python -->
+<img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-<img alt="Pandas" title="Pandas" width="40px" style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+<!-- Pandas -->
+<img align="left" alt="Pandas" title="Pandas" width="40px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
 
-<img alt="NumPy" title="NumPy" width="40px" style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
+<!-- NumPy -->
+<img align="left" alt="NumPy" title="NumPy" width="40px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
 
-<img alt="SQL" title="SQL" width="40px" style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<!-- SQL (MySQL como referência) -->
+<img align="left" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
-<img alt="Figma" title="Figma" width="40px" style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+<!-- Figma -->
+<img align="left" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 
-<img alt="Matplotlib" title="Matplotlib" width="100px" style="padding-right: 10px;"
-    src="matplotlib.png"/>
+<!-- Matplotlib -->
+<img align="left" alt="Matplotlib" title="Matplotlib" width="100px" style="padding-right: 0px;" 
+src="matplotlib.png"/>
 
-<img alt="Seaborn" title="Seaborn" width="60px" style="padding-right: 10px;"
-    src="seaborn.png"/>
-
+<!-- Seaborn -->
+<img align="left" alt="Seaborn" title="Seaborn" width="60px" style="padding-right: 0px;" 
+src="seaborn.png"/>
 <br clear="left"/>
 
 ---
