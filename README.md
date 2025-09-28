@@ -29,11 +29,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 
 <!-- Matplotlib -->
-<img align="left" alt="Matplotlib" title="Matplotlib" width="100px" style="padding-right: 10px;" 
+<img align="left" alt="Matplotlib" title="Matplotlib" width="100px" style="padding-right: 0px;" 
 src="matplotlib.png"/>
 
 <!-- Seaborn -->
-<img align="left" alt="Seaborn" title="Seaborn" width="60px" style="padding-right: 10px;" 
+<img align="left" alt="Seaborn" title="Seaborn" width="60px" style="padding-right: 0px;" 
 src="seaborn.png"/>
 
 <br clear="left"/>
