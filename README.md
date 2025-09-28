@@ -40,6 +40,30 @@ src="powerbi.jpeg"/>
 <img align="left" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 
+<!-- Power BI — Wikimedia SVG -->
+<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;"
+src="https://upload.wikimedia.org/wikipedia/commons/0/0b/New_Power_BI_Logo.svg"/>
+
+<!-- Power BI — repositório Microsoft PowerBI-Icons (PNG) -->
+<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;"
+src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/png/power-bi.png"/>
+
+<!-- Power BI — VectorLogo SVG -->
+<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;"
+src="https://www.vectorlogo.zone/logos/microsoft_powerbi/powerbi-icon.svg"/>
+
+<!-- Power BI — UXWing SVG -->
+<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;"
+src="https://uxwing.com/wp-content/themes/uxwing/download/brands-social-media/power-bi-icon.svg"/>
+
+<!-- Power BI — SeekLogo PNG -->
+<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;"
+src="https://seeklogo.com/images/P/power-bi-logo-400711BB47-seeklogo.com.png"/>
+
+<!-- Power BI — JTB Labs SVG -->
+<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;"
+src="https://www.svgviewer.dev/s/390335/powerbi.svg"/>
+
 <br clear="left"/>
 
 ---
