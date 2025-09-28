@@ -48,8 +48,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
 
 | Projeto | Descrição |
 |---------|-----------|
-| **EduConnect – Sistema de Prevenção à Evasão Escolar 📖** | Protótipo navegável em Figma |
-| **WorldGuide – Aplicativo de Turismo ✈️** | Protótipo navegável em Figma |
+| **EduConnect** – Sistema de Prevenção à Evasão Escolar 📖 | Protótipo navegável em Figma |
+| **WorldGuide** – Aplicativo de Turismo ✈️ | Protótipo navegável em Figma |
 
 ---
 
