@@ -9,32 +9,37 @@
 ## 🛠️ Competências Técnicas  
 
 <!-- Python -->
-<img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" 
+<img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
 <!-- Pandas -->
-<img align="left" alt="Pandas" title="Pandas" width="40px" style="padding-right: 10px;" 
+<img align="left" alt="Pandas" title="Pandas" width="40px" style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
 
 <!-- NumPy -->
-<img align="left" alt="NumPy" title="NumPy" width="40px" style="padding-right: 10px;" 
+<img align="left" alt="NumPy" title="NumPy" width="40px" style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
 
-<!-- SQL (MySQL como referência) -->
-<img align="left" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" 
+<!-- SQL -->
+<img align="left" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
+<!-- Matplotlib (usando imagem do repositório local) -->
+<img align="left" alt="Matplotlib" title="Matplotlib" width="40px" style="padding-right: 10px;" 
+src="./assets/matplotlib.png"/>
+
+<!-- Seaborn (usando imagem do repositório local) -->
+<img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;" 
+src="./assets/seaborn.png"/>
+
+<!-- Power BI -->
+<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"/>
+
 <!-- Figma -->
-<img align="left" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" 
+<img align="left" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 
-<!-- Matplotlib -->
-<img align="left" alt="Matplotlib" title="Matplotlib" width="100px" style="padding-right: 0px;" 
-src="matplotlib.png"/>
-
-<!-- Seaborn -->
-<img align="left" alt="Seaborn" title="Seaborn" width="60px" style="padding-right: 0px;" 
-src="seaborn.png"/>
 <br clear="left"/>
 
 ---
