@@ -29,8 +29,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
 
 <!-- Seaborn (usando imagem do repositório local) -->
-<img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;" 
-src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
+<img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right: 10px;"
+src="https://upload.wikimedia.org/wikipedia/commons/6/69/Seaborn_logo.svg"/>
 
 <!-- Power BI -->
 <img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" 
