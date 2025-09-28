@@ -17,6 +17,7 @@
     <img alt="Matplotlib" title="Matplotlib" width="100px" style="padding-right: 10px;" src="matplotlib.png"/>
     <img alt="Seaborn" title="Seaborn" width="60px" style="padding-right: 10px;" src="seaborn.png"/>
 </div>
+
 ---
 
 ## 📂 Projetos  
