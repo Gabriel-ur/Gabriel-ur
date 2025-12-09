@@ -49,6 +49,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
 |---------|-----------|
 | **[EduConnect](https://github.com/Gabriel-ur/EduConnect)** – Sistema de Prevenção à Evasão Escolar 📖 | Protótipo navegável em Figma |
 | **[WorldGuide](https://github.com/Gabriel-ur/WorldGuide)** – Aplicativo de Turismo ✈️ | Protótipo navegável em Figma |
+| **[Agente de IA](https://github.com/Gabriel-ur/Agente-IA)** – Organizador de Tarefas 📋 | Agente de IA com Python e API |
 
 ---
 
