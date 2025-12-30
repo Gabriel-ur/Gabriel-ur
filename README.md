@@ -33,7 +33,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
 src="https://logo.svgcdn.com/l/seaborn-icon.png"/>
 
 <!-- Power BI -->
-
+<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;"
+src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg"/>
 
 <!-- Figma -->
 <img align="left" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" 
