@@ -34,7 +34,7 @@ src="https://logo.svgcdn.com/l/seaborn-icon.png"/>
 
 <!-- Power BI -->
 <img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;"
-src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg"/>
+src="https://cdn.worldvectorlogo.com/logos/power-bi.svg"/>
 
 <!-- Figma -->
 <img align="left" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" 
